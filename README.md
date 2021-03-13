@@ -1,2 +1,2 @@
 # repository
-cinta is magic
+Miracle
